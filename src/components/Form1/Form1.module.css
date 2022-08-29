@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+    border: 1px solid;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+form Input {
+    height: 30px;
+
+}
+
+form Button {
+    height: 30px;
+    text-transform: uppercase;
+}
